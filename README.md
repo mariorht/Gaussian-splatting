@@ -1,7 +1,10 @@
-# FastAPI Project Template
+# Gaussian splatting
 
 ![example workflow](https://github.com/mariorht/Gaussian-splatting/actions/workflows/run-tests.yml/badge.svg)
 
+## 🚧 Experimental Phase 🚧
+
+**Note:** This project is currently in the experimental phase. The primary focus is on exploring and experimenting with Gaussian splatting techniques. The implementation of these features in a web application is not yet functional.
 
 **Gaussian Splatting Project** is a base structure for experimenting with Gaussian splatting techniques. Currently, the most relevant component of the project is located in [notebooks/gaussian_splatting.ipynb](notebooks/gaussian_splatting.ipynb), where interactive experimentation with Gaussian splatting is demonstrated. The rest of the code, intended to implement these features in a web application, is not functional yet.
 
