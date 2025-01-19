@@ -1,9 +1,9 @@
 # FastAPI Project Template
 
-![example workflow](https://github.com/mariorht/fastapi_template/actions/workflows/run-tests.yml/badge.svg)
+![example workflow](https://github.com/mariorht/Gaussian-splatting/actions/workflows/run-tests.yml/badge.svg)
 
 
-**Gaussian Splatting Project** is a base structure for experimenting with Gaussian splatting techniques. Currently, the most relevant component of the project is located in notebooks/gaussian_splatting.ipynb, where interactive experimentation with Gaussian splatting is demonstrated. The rest of the code, intended to implement these features in a web application, is not functional yet.
+**Gaussian Splatting Project** is a base structure for experimenting with Gaussian splatting techniques. Currently, the most relevant component of the project is located in [notebooks/gaussian_splatting.ipynb](notebooks/gaussian_splatting.ipynb), where interactive experimentation with Gaussian splatting is demonstrated. The rest of the code, intended to implement these features in a web application, is not functional yet.
 ---
 
 ## Setup

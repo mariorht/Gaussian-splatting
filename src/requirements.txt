@@ -7,3 +7,4 @@ matplotlib
 scikit-image
 opencv-python
 ipykernel
+scikit-learn
