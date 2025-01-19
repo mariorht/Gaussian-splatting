@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytest
+httpx
+numpy
+matplotlib
+scikit-image
+opencv-python
+ipykernel
